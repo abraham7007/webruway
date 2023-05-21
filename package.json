@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "author": "Uzzal",
   "private": true,
+  
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
+    "build": "nitro build",
+    "start": "node .output/server/index.mjs",
     "generate": "nuxt generate"
   },
   "dependencies": {
