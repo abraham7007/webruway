@@ -654,7 +654,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 55:
+/***/ 53:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -797,7 +797,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 69:
+/***/ 68:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -840,7 +840,7 @@ var staticRenderFns = []
     Header: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 26)),
     OffCanvasMobileMenu: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 30)),
     PageTitle: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    ContactWrapper: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 55)),
+    ContactWrapper: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 53)),
     FooterTwo: () => __webpack_require__.e(/* import() */ 50).then(__webpack_require__.bind(null, 64))
   },
 
@@ -878,7 +878,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var contact = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {Header: __webpack_require__(26).default,OffCanvasMobileMenu: __webpack_require__(30).default,PageTitle: __webpack_require__(32).default,ContactWrapper: __webpack_require__(55).default,Footer: __webpack_require__(25).default})
+installComponents(component, {Header: __webpack_require__(26).default,OffCanvasMobileMenu: __webpack_require__(30).default,PageTitle: __webpack_require__(32).default,ContactWrapper: __webpack_require__(53).default,Footer: __webpack_require__(25).default})
 
 
 /***/ })

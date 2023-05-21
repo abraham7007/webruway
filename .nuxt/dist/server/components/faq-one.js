@@ -1,7 +1,7 @@
 exports.ids = [12,3];
 exports.modules = {
 
-/***/ 47:
+/***/ 49:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -40,7 +40,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 54:
+/***/ 61:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -92,7 +92,7 @@ var staticRenderFns = []
 //
 /* harmony default export */ var FaqOnevue_type_script_lang_js_ = ({
   components: {
-    AccordionStyleOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 47))
+    AccordionStyleOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 49))
   }
 });
 // CONCATENATED MODULE: ./components/FaqOne.vue?vue&type=script&lang=js&
@@ -122,7 +122,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var FaqOne = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {AccordionStyleOne: __webpack_require__(47).default})
+installComponents(component, {AccordionStyleOne: __webpack_require__(49).default})
 
 
 /***/ })

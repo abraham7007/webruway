@@ -6,8 +6,8 @@
   
   "scripts": {
     "dev": "nuxt",
-    "build": "nitro build",
-    "start": "node .output/server/index.mjs",
+    "build": "nuxt build",
+    "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {

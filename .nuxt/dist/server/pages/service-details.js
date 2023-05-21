@@ -975,7 +975,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 59:
+/***/ 57:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1089,7 +1089,7 @@ installComponents(component, {ServiceCategoryWidget: __webpack_require__(34).def
 
 /***/ }),
 
-/***/ 71:
+/***/ 72:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1134,7 +1134,7 @@ var staticRenderFns = []
     Header: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 26)),
     OffCanvasMobileMenu: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 30)),
     PageTitle: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    ServiceDetailsWrapper: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 59)),
+    ServiceDetailsWrapper: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 57)),
     ContactDevider: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33)),
     Footer: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 25))
   },
@@ -1173,7 +1173,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var service_details = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {Header: __webpack_require__(26).default,OffCanvasMobileMenu: __webpack_require__(30).default,PageTitle: __webpack_require__(32).default,ServiceDetailsWrapper: __webpack_require__(59).default,ContactDevider: __webpack_require__(33).default,Footer: __webpack_require__(25).default})
+installComponents(component, {Header: __webpack_require__(26).default,OffCanvasMobileMenu: __webpack_require__(30).default,PageTitle: __webpack_require__(32).default,ServiceDetailsWrapper: __webpack_require__(57).default,ContactDevider: __webpack_require__(33).default,Footer: __webpack_require__(25).default})
 
 
 /***/ })

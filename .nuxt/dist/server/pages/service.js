@@ -791,7 +791,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 58:
+/***/ 56:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -882,7 +882,7 @@ installComponents(component, {ServiceItem: __webpack_require__(40).default})
 
 /***/ }),
 
-/***/ 66:
+/***/ 71:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -927,7 +927,7 @@ var staticRenderFns = []
     Header: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 26)),
     OffCanvasMobileMenu: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 30)),
     PageTitle: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    ServiceWrapper: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 58)),
+    ServiceWrapper: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 56)),
     ContactDevider: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33)),
     Footer: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 25))
   },
@@ -966,7 +966,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var service = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {Header: __webpack_require__(26).default,OffCanvasMobileMenu: __webpack_require__(30).default,PageTitle: __webpack_require__(32).default,ServiceWrapper: __webpack_require__(58).default,ContactDevider: __webpack_require__(33).default,Footer: __webpack_require__(25).default})
+installComponents(component, {Header: __webpack_require__(26).default,OffCanvasMobileMenu: __webpack_require__(30).default,PageTitle: __webpack_require__(32).default,ServiceWrapper: __webpack_require__(56).default,ContactDevider: __webpack_require__(33).default,Footer: __webpack_require__(25).default})
 
 
 /***/ })

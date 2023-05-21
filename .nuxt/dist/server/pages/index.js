@@ -1219,7 +1219,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 47:
+/***/ 49:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1258,7 +1258,447 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 53:
+/***/ 58:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/HeroSlider.vue?vue&type=template&id=5621f802&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"home-slider-area slider-default"},[_vm._ssrNode("<div class=\"home-slider-content\">","</div>",[_vm._ssrNode("<div class=\"home-slider-container\">","</div>",[_c('swiper',{attrs:{"options":_vm.swiperOptions}},[_c('div',{staticClass:"swiper-slide home-slider-item",style:({ backgroundImage: "url('/images/slider/bg2.jpg')" })},[_c('div',{staticClass:"slider-content-area"},[_c('div',{staticClass:"content"},[_c('div',{staticClass:"subtitle-content"},[_c('img',{attrs:{"src":"/images/shape/line1.png","alt":"Images"}}),_vm._v(" "),_c('h6',[_vm._v("Desde 2018")])]),_vm._v(" "),_c('div',{staticClass:"tittle-wrp"},[_c('h2',[_vm._v("Industría"),_c('span',[_vm._v(" 4.0")])])]),_vm._v(" "),_c('p',[_vm._v("La innovación y creatividad nos caracteriza como empresa.")]),_vm._v(" "),_c('n-link',{staticClass:"btn btn-theme btn-theme-color2",attrs:{"to":"/service"}},[_vm._v("Nuestros servicios "),_c('i',{staticClass:"icon icofont-long-arrow-right"})])],1),_vm._v(" "),_c('div',{staticClass:"layer-style"},[_c('div',{staticClass:"thumb"},[_c('img',{attrs:{"src":"/images/slider/1.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"success-rate"},[_c('div',{staticClass:"content"},[_vm._v("98% "),_c('span',[_vm._v("Proyectos Exitosos")])])]),_vm._v(" "),_c('div',{staticClass:"shape-style3"},[_c('img',{attrs:{"src":"/images/shape/3.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"shape-style4"},[_c('img',{attrs:{"src":"/images/shape/4.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"shape-style5"},[_c('img',{attrs:{"src":"/images/shape/5.png","alt":"Images"}})])])])]),_vm._v(" "),_c('div',{staticClass:"swiper-slide home-slider-item",style:({ backgroundImage: "url('/images/slider/bg3.jpg')" })},[_c('div',{staticClass:"slider-content-area"},[_c('div',{staticClass:"content"},[_c('div',{staticClass:"subtitle-content"},[_c('img',{attrs:{"src":"/images/shape/line1.png","alt":"Images"}}),_vm._v(" "),_c('h6',[_vm._v("Desde 2018")])]),_vm._v(" "),_c('div',{staticClass:"tittle-wrp"},[_c('h2',[_vm._v("Innovamos"),_c('span',[_vm._v(" para crear el futuro.")])])]),_vm._v(" "),_c('p',[_vm._v("Construimos soluciones innovadoras utilizando tecnologías emergentes.")]),_vm._v(" "),_c('n-link',{staticClass:"btn btn-theme btn-theme-color2",attrs:{"to":"/service"}},[_vm._v("Nuestros servicios "),_c('i',{staticClass:"icon icofont-long-arrow-right"})])],1),_vm._v(" "),_c('div',{staticClass:"layer-style"},[_c('div',{staticClass:"thumb"},[_c('img',{attrs:{"src":"/images/slider/2.jpg","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"success-rate"},[_c('div',{staticClass:"content"},[_vm._v("98% "),_c('span',[_vm._v("Proyectos Exitosos")])])]),_vm._v(" "),_c('div',{staticClass:"shape-style3"},[_c('img',{attrs:{"src":"/images/shape/3.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"shape-style4"},[_c('img',{attrs:{"src":"/images/shape/4.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"shape-style5"},[_c('img',{attrs:{"src":"/images/shape/5.png","alt":"Images"}})])])])])]),_vm._ssrNode(" <div class=\"swiper-button-next\"><i class=\"icofont-rounded-double-right\"></i></div> <div class=\"swiper-button-prev\"><i class=\"icofont-rounded-double-left\"></i></div>")],2)]),_vm._ssrNode(" <div data-aos=\"fade-zoom-in\" data-aos-duration=\"1300\" class=\"home-slider-sidebar\"><div class=\"social-icon\"><a href=\"https://m.facebook.com/profile.php?id=100063552639710\"><i class=\"icofont-facebook\"></i></a> <a href=\"https://www.linkedin.com/company/80447477\"><i class=\"icofont-instagram\"></i></a> <a href=\"https://www.linkedin.com/company/80447477\"><i class=\"icofont-linkedin\"></i></a></div></div>")],2)}
+var staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./components/HeroSlider.vue?vue&type=template&id=5621f802&
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/HeroSlider.vue?vue&type=script&lang=js&
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ var HeroSlidervue_type_script_lang_js_ = ({
+  data() {
+    return {
+      swiperOptions: {
+        slidesPerView: 1,
+        loop: true,
+        spaceBetween: 30,
+        autoplay: false,
+        navigation: {
+          nextEl: '.home-slider-container .swiper-button-next',
+          prevEl: '.home-slider-container .swiper-button-prev'
+        }
+      }
+    };
+  }
+
+});
+// CONCATENATED MODULE: ./components/HeroSlider.vue?vue&type=script&lang=js&
+ /* harmony default export */ var components_HeroSlidervue_type_script_lang_js_ = (HeroSlidervue_type_script_lang_js_); 
+// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
+var componentNormalizer = __webpack_require__(2);
+
+// CONCATENATED MODULE: ./components/HeroSlider.vue
+
+
+
+
+
+/* normalize component */
+
+var component = Object(componentNormalizer["a" /* default */])(
+  components_HeroSlidervue_type_script_lang_js_,
+  render,
+  staticRenderFns,
+  false,
+  null,
+  null,
+  "4a9b5aba"
+  
+)
+
+/* harmony default export */ var HeroSlider = __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ 59:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/AboutOne.vue?vue&type=template&id=78c41b42&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"about-area about-default-area"},[_vm._ssrNode("<div class=\"container\">","</div>",[_vm._ssrNode("<div class=\"row\">","</div>",[_vm._ssrNode("<div class=\"col-lg-5 md-text-center\">","</div>",[_vm._ssrNode("<div data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"layer-style\">","</div>",[_vm._ssrNode("<div class=\"thumb tilt-animation\"><img src=\"/images/about/01.jpg\" alt=\"Images\"></div> <div class=\"shape-style1\"><img src=\"/images/shape/circle-line1.png\" alt=\"Images\"></div> "),_c('ShapeWithAnimation',{attrs:{"addClassName":"shape-style2","imgSrc":"/images/shape/circle-shape1.png","data-depth":".6"}}),_vm._ssrNode(" <div class=\"experience-time\"><div class=\"content\">4<sup>+</sup> <span>Años de experiencia</span></div></div>")],2)]),_vm._ssrNode(" <div class=\"col-lg-6 offset-lg-1\"><div class=\"about-content\"><div data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"section-title xs-text-center\"><h2 class=\"title\">Experiencia en<span class=\"bottom-style\"> Proyectos</span> de Innovación Tecnologica.</h2> <div class=\"desc\"><p class=\"mt-20\">Innovamos y desarrollamos soluciones tecnológicas para la industria, minería, petroleo, transporte, gas y agricultura.<u class=\"text-theme-color2\"> Nuestras soluciones integran las mejores tecnologías que existen en la actualidad.</u> Como son Inteligencia Artificial, Machine Learning, Procesamiento de señales e imágenes, sistemas embebidos, sistemas operativos robóticos (ROS), Internet de las Cosas(IoT), Redes Industriales, etc.</p></div></div> <div data-aos=\"fade-up\" data-aos-duration=\"1200\" class=\"list-icon-style\"><ul><li><i class=\"icon icofont-clock-time\"></i> Ahorre Tiempo</li> <li><i class=\"icon icofont-money-bag\"></i> Reduce costos</li> <li><i class=\"icon icofont-chart-growth\"></i>Solución inmediata</li> <li><i class=\"icon icofont-live-support\"></i> Soporte 24/7</li> <li><i class=\"icon icofont-badge\"></i> Socio de confianza</li> <li><i class=\"icon icofont-unique-idea\"></i> Ideas innovadoras</li></ul></div></div></div>")],2)])])}
+var staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./components/AboutOne.vue?vue&type=template&id=78c41b42&
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/AboutOne.vue?vue&type=script&lang=js&
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ var AboutOnevue_type_script_lang_js_ = ({
+  components: {
+    ShapeWithAnimation: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 46))
+  }
+});
+// CONCATENATED MODULE: ./components/AboutOne.vue?vue&type=script&lang=js&
+ /* harmony default export */ var components_AboutOnevue_type_script_lang_js_ = (AboutOnevue_type_script_lang_js_); 
+// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
+var componentNormalizer = __webpack_require__(2);
+
+// CONCATENATED MODULE: ./components/AboutOne.vue
+
+
+
+
+
+/* normalize component */
+
+var component = Object(componentNormalizer["a" /* default */])(
+  components_AboutOnevue_type_script_lang_js_,
+  render,
+  staticRenderFns,
+  false,
+  null,
+  null,
+  "2d187398"
+  
+)
+
+/* harmony default export */ var AboutOne = __webpack_exports__["default"] = (component.exports);
+
+/* nuxt-component-imports */
+installComponents(component, {ShapeWithAnimation: __webpack_require__(46).default})
+
+
+/***/ }),
+
+/***/ 60:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/ServiceOne.vue?vue&type=template&id=97ebe26e&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"service-area service-default-area"},[_vm._ssrNode("<div class=\"container\">","</div>",[_vm._ssrNode("<div class=\"row\"><div class=\"col-lg-8 col-xl-6 m-auto\"><div data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"section-title text-center\"><h2 class=\"title\">¿Qué hacemos?</h2> <div class=\"separator-line mt-14\"><img src=\"/images/shape/line-s2.png\" alt=\"Images\" class=\"me-1\"> <img src=\"/images/shape/line-s1.png\" alt=\"Images\"></div> <div class=\"desc\"><p class=\"mt-21\">Dedicamos el mayor de nuestros esfuerzos en desarrollar soluciones de Hardware y Software para nuestros clientes, haciendo uso de las herramientas tecnológicas más emergentes.</p></div></div></div></div> "),_vm._ssrNode("<div class=\"row icon-box-style1\">","</div>",_vm._l((_vm.services),function(service,index){return _vm._ssrNode("<div data-aos=\"fade-up\" data-aos-duration=\"1100\" class=\"col-md-6 col-lg-4\">","</div>",[_c('ServiceItem',{attrs:{"service":service}})],1)}),0)],2),_vm._ssrNode(" <div class=\"layer-shape\"><img src=\"/images/shape/6.png\" alt=\"shape\" class=\"layer-shape-one\"> <img src=\"/images/shape/7.png\" alt=\"shape\" class=\"layer-shape-two\"></div>")],2)}
+var staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./components/ServiceOne.vue?vue&type=template&id=97ebe26e&
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/ServiceOne.vue?vue&type=script&lang=js&
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ var ServiceOnevue_type_script_lang_js_ = ({
+  data() {
+    return {
+      services: [{
+        icon: "/images/icons/s1.png",
+        title: "Desarrollo de software",
+        desc: "Transformamos su negocio mediante la creación de aplicaciones digitales innovadoras haciendo uso de diferentes lenguajes de programación. Comience hoy mismo y permítanos ayudarlo a aprovechar el poder de las tecnologías emergentes."
+      }, {
+        icon: "/images/icons/s6.png",
+        title: "Diseño y desarrollo de hardware IOT",
+        desc: "Construimos sistemas integrados con nuestra experiencia y comprensión en diseño de hardware integrado, redes de sensores inalámbricos y diferentes protocolos de comunicación."
+      }, {
+        icon: "/images/icons/s3.png",
+        title: "Fabricación digital y prototipado ágil",
+        desc: "Te ayudamos en el desarrollo de prototipos de baja y media resolución con la ayuda de nuestros diseñadores y herramientas de impresión 3D de diferentes materiales de fabricación."
+      }, {
+        icon: "/images/icons/s4.png",
+        title: "Consultoría en conceptualización de productos IOT",
+        desc: "Con años de experiencia práctica en el trabajo con productos de hardware y software de IoT, somos conscientes de casi todo sobre IoT. Para mejorar nuestro conocimiento, brindamos servicios de consultoría para productos IoT La consulta proporcionada por nosotros puede ayudarlo a mejorar el diseño de su producto y construir dispositivos IoT."
+      }, {
+        icon: "/images/icons/s5.png",
+        title: "Implementación en la nube y creación de dashboard personalizados ",
+        desc: "IoT conecta y permite la comunicación entre cosas (hardware electrónico), personas y procesos donde la nube es vital en la colaboración de estos elementos para crear una alta visibilidad y conexión. Brindamos el despliegue de proyectos a nivel de la nube aprovechando las ventajas de esta tecnología."
+      }, {
+        icon: "/images/icons/s2.png",
+        title: "Industria 4.0",
+        desc: "La Industria 4.0 hace que todo en su cadena de suministro sea inteligente desde la fabricación y fábricas inteligentes hasta el almacenamiento y la logística inteligentes.Pero la Industria 4.0 no se detiene en la cadena de suministro. Se interconecta con sistemas de back-end, como la planificación de recursos empresariales (ERP), para brindar a las empresas un nivel de visibilidad y control sin precedentes."
+      }]
+    };
+  }
+
+});
+// CONCATENATED MODULE: ./components/ServiceOne.vue?vue&type=script&lang=js&
+ /* harmony default export */ var components_ServiceOnevue_type_script_lang_js_ = (ServiceOnevue_type_script_lang_js_); 
+// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
+var componentNormalizer = __webpack_require__(2);
+
+// CONCATENATED MODULE: ./components/ServiceOne.vue
+
+
+
+
+
+/* normalize component */
+
+var component = Object(componentNormalizer["a" /* default */])(
+  components_ServiceOnevue_type_script_lang_js_,
+  render,
+  staticRenderFns,
+  false,
+  null,
+  null,
+  "1ceed4a0"
+  
+)
+
+/* harmony default export */ var ServiceOne = __webpack_exports__["default"] = (component.exports);
+
+/* nuxt-component-imports */
+installComponents(component, {ServiceItem: __webpack_require__(40).default})
+
+
+/***/ }),
+
+/***/ 61:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/FaqOne.vue?vue&type=template&id=5648a742&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"faq-area faq-default-area",style:({ backgroundImage: "url('/images/photos/bg-faq.jpg')" })},[_vm._ssrNode("<div class=\"container\">","</div>",[_vm._ssrNode("<div class=\"row\">","</div>",[_vm._ssrNode("<div class=\"col-lg-8\">","</div>",[_vm._ssrNode("<div data-aos=\"fade-up\" data-aos-duration=\"1100\" class=\"faq-content\">","</div>",[_vm._ssrNode("<div class=\"section-title xs-text-center\"><h2 class=\"title text-white\">Preguntas &amp; <span class=\"bottom-color-style2\">Respuestas.</span></h2></div> "),_vm._ssrNode("<div class=\"accordion-content\">","</div>",[_c('AccordionStyleOne')],1),_vm._ssrNode(" <div class=\"text-center\"><a href=\"#\" class=\"btn btn-theme btn-white btn-border\">Ir a Inicio <i class=\"icon icofont-long-arrow-right\"></i></a></div>")],2)])])]),_vm._ssrNode(" <div class=\"layer-shape\"><div data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"layer-shape-one\"><img src=\"/images/shape/1.png\" alt=\"Virtuf-Image\" class=\"img-shape2\"> <img src=\"/images/shape/2.png\" alt=\"Virtuf-Image\" class=\"img-shape3\"></div> <div class=\"layer-shape-two\"><img src=\"/images/shape/circle-line2.png\" alt=\"Virtuf-Image\"></div> <div class=\"layer-shape-three\"><img src=\"/images/shape/circle-line3.png\" alt=\"Virtuf-Image\"></div></div>")],2)}
+var staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./components/FaqOne.vue?vue&type=template&id=5648a742&
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/FaqOne.vue?vue&type=script&lang=js&
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ var FaqOnevue_type_script_lang_js_ = ({
+  components: {
+    AccordionStyleOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 49))
+  }
+});
+// CONCATENATED MODULE: ./components/FaqOne.vue?vue&type=script&lang=js&
+ /* harmony default export */ var components_FaqOnevue_type_script_lang_js_ = (FaqOnevue_type_script_lang_js_); 
+// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
+var componentNormalizer = __webpack_require__(2);
+
+// CONCATENATED MODULE: ./components/FaqOne.vue
+
+
+
+
+
+/* normalize component */
+
+var component = Object(componentNormalizer["a" /* default */])(
+  components_FaqOnevue_type_script_lang_js_,
+  render,
+  staticRenderFns,
+  false,
+  null,
+  null,
+  "721a7daf"
+  
+)
+
+/* harmony default export */ var FaqOne = __webpack_exports__["default"] = (component.exports);
+
+/* nuxt-component-imports */
+installComponents(component, {AccordionStyleOne: __webpack_require__(49).default})
+
+
+/***/ }),
+
+/***/ 62:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1482,447 +1922,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 54:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-// ESM COMPAT FLAG
-__webpack_require__.r(__webpack_exports__);
-
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/FaqOne.vue?vue&type=template&id=5648a742&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"faq-area faq-default-area",style:({ backgroundImage: "url('/images/photos/bg-faq.jpg')" })},[_vm._ssrNode("<div class=\"container\">","</div>",[_vm._ssrNode("<div class=\"row\">","</div>",[_vm._ssrNode("<div class=\"col-lg-8\">","</div>",[_vm._ssrNode("<div data-aos=\"fade-up\" data-aos-duration=\"1100\" class=\"faq-content\">","</div>",[_vm._ssrNode("<div class=\"section-title xs-text-center\"><h2 class=\"title text-white\">Preguntas &amp; <span class=\"bottom-color-style2\">Respuestas.</span></h2></div> "),_vm._ssrNode("<div class=\"accordion-content\">","</div>",[_c('AccordionStyleOne')],1),_vm._ssrNode(" <div class=\"text-center\"><a href=\"#\" class=\"btn btn-theme btn-white btn-border\">Ir a Inicio <i class=\"icon icofont-long-arrow-right\"></i></a></div>")],2)])])]),_vm._ssrNode(" <div class=\"layer-shape\"><div data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"layer-shape-one\"><img src=\"/images/shape/1.png\" alt=\"Virtuf-Image\" class=\"img-shape2\"> <img src=\"/images/shape/2.png\" alt=\"Virtuf-Image\" class=\"img-shape3\"></div> <div class=\"layer-shape-two\"><img src=\"/images/shape/circle-line2.png\" alt=\"Virtuf-Image\"></div> <div class=\"layer-shape-three\"><img src=\"/images/shape/circle-line3.png\" alt=\"Virtuf-Image\"></div></div>")],2)}
-var staticRenderFns = []
-
-
-// CONCATENATED MODULE: ./components/FaqOne.vue?vue&type=template&id=5648a742&
-
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/FaqOne.vue?vue&type=script&lang=js&
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ var FaqOnevue_type_script_lang_js_ = ({
-  components: {
-    AccordionStyleOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 47))
-  }
-});
-// CONCATENATED MODULE: ./components/FaqOne.vue?vue&type=script&lang=js&
- /* harmony default export */ var components_FaqOnevue_type_script_lang_js_ = (FaqOnevue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
-var componentNormalizer = __webpack_require__(2);
-
-// CONCATENATED MODULE: ./components/FaqOne.vue
-
-
-
-
-
-/* normalize component */
-
-var component = Object(componentNormalizer["a" /* default */])(
-  components_FaqOnevue_type_script_lang_js_,
-  render,
-  staticRenderFns,
-  false,
-  null,
-  null,
-  "721a7daf"
-  
-)
-
-/* harmony default export */ var FaqOne = __webpack_exports__["default"] = (component.exports);
-
-/* nuxt-component-imports */
-installComponents(component, {AccordionStyleOne: __webpack_require__(47).default})
-
-
-/***/ }),
-
-/***/ 60:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-// ESM COMPAT FLAG
-__webpack_require__.r(__webpack_exports__);
-
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/HeroSlider.vue?vue&type=template&id=5621f802&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"home-slider-area slider-default"},[_vm._ssrNode("<div class=\"home-slider-content\">","</div>",[_vm._ssrNode("<div class=\"home-slider-container\">","</div>",[_c('swiper',{attrs:{"options":_vm.swiperOptions}},[_c('div',{staticClass:"swiper-slide home-slider-item",style:({ backgroundImage: "url('/images/slider/bg2.jpg')" })},[_c('div',{staticClass:"slider-content-area"},[_c('div',{staticClass:"content"},[_c('div',{staticClass:"subtitle-content"},[_c('img',{attrs:{"src":"/images/shape/line1.png","alt":"Images"}}),_vm._v(" "),_c('h6',[_vm._v("Desde 2018")])]),_vm._v(" "),_c('div',{staticClass:"tittle-wrp"},[_c('h2',[_vm._v("Industría"),_c('span',[_vm._v(" 4.0")])])]),_vm._v(" "),_c('p',[_vm._v("La innovación y creatividad nos caracteriza como empresa.")]),_vm._v(" "),_c('n-link',{staticClass:"btn btn-theme btn-theme-color2",attrs:{"to":"/service"}},[_vm._v("Nuestros servicios "),_c('i',{staticClass:"icon icofont-long-arrow-right"})])],1),_vm._v(" "),_c('div',{staticClass:"layer-style"},[_c('div',{staticClass:"thumb"},[_c('img',{attrs:{"src":"/images/slider/1.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"success-rate"},[_c('div',{staticClass:"content"},[_vm._v("98% "),_c('span',[_vm._v("Proyectos Exitosos")])])]),_vm._v(" "),_c('div',{staticClass:"shape-style3"},[_c('img',{attrs:{"src":"/images/shape/3.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"shape-style4"},[_c('img',{attrs:{"src":"/images/shape/4.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"shape-style5"},[_c('img',{attrs:{"src":"/images/shape/5.png","alt":"Images"}})])])])]),_vm._v(" "),_c('div',{staticClass:"swiper-slide home-slider-item",style:({ backgroundImage: "url('/images/slider/bg3.jpg')" })},[_c('div',{staticClass:"slider-content-area"},[_c('div',{staticClass:"content"},[_c('div',{staticClass:"subtitle-content"},[_c('img',{attrs:{"src":"/images/shape/line1.png","alt":"Images"}}),_vm._v(" "),_c('h6',[_vm._v("Desde 2018")])]),_vm._v(" "),_c('div',{staticClass:"tittle-wrp"},[_c('h2',[_vm._v("Innovamos"),_c('span',[_vm._v(" para crear el futuro.")])])]),_vm._v(" "),_c('p',[_vm._v("Construimos soluciones innovadoras utilizando tecnologías emergentes.")]),_vm._v(" "),_c('n-link',{staticClass:"btn btn-theme btn-theme-color2",attrs:{"to":"/service"}},[_vm._v("Nuestros servicios "),_c('i',{staticClass:"icon icofont-long-arrow-right"})])],1),_vm._v(" "),_c('div',{staticClass:"layer-style"},[_c('div',{staticClass:"thumb"},[_c('img',{attrs:{"src":"/images/slider/2.jpg","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"success-rate"},[_c('div',{staticClass:"content"},[_vm._v("98% "),_c('span',[_vm._v("Proyectos Exitosos")])])]),_vm._v(" "),_c('div',{staticClass:"shape-style3"},[_c('img',{attrs:{"src":"/images/shape/3.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"shape-style4"},[_c('img',{attrs:{"src":"/images/shape/4.png","alt":"Images"}})]),_vm._v(" "),_c('div',{staticClass:"shape-style5"},[_c('img',{attrs:{"src":"/images/shape/5.png","alt":"Images"}})])])])])]),_vm._ssrNode(" <div class=\"swiper-button-next\"><i class=\"icofont-rounded-double-right\"></i></div> <div class=\"swiper-button-prev\"><i class=\"icofont-rounded-double-left\"></i></div>")],2)]),_vm._ssrNode(" <div data-aos=\"fade-zoom-in\" data-aos-duration=\"1300\" class=\"home-slider-sidebar\"><div class=\"social-icon\"><a href=\"https://m.facebook.com/profile.php?id=100063552639710\"><i class=\"icofont-facebook\"></i></a> <a href=\"https://www.linkedin.com/company/80447477\"><i class=\"icofont-instagram\"></i></a> <a href=\"https://www.linkedin.com/company/80447477\"><i class=\"icofont-linkedin\"></i></a></div></div>")],2)}
-var staticRenderFns = []
-
-
-// CONCATENATED MODULE: ./components/HeroSlider.vue?vue&type=template&id=5621f802&
-
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/HeroSlider.vue?vue&type=script&lang=js&
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ var HeroSlidervue_type_script_lang_js_ = ({
-  data() {
-    return {
-      swiperOptions: {
-        slidesPerView: 1,
-        loop: true,
-        spaceBetween: 30,
-        autoplay: false,
-        navigation: {
-          nextEl: '.home-slider-container .swiper-button-next',
-          prevEl: '.home-slider-container .swiper-button-prev'
-        }
-      }
-    };
-  }
-
-});
-// CONCATENATED MODULE: ./components/HeroSlider.vue?vue&type=script&lang=js&
- /* harmony default export */ var components_HeroSlidervue_type_script_lang_js_ = (HeroSlidervue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
-var componentNormalizer = __webpack_require__(2);
-
-// CONCATENATED MODULE: ./components/HeroSlider.vue
-
-
-
-
-
-/* normalize component */
-
-var component = Object(componentNormalizer["a" /* default */])(
-  components_HeroSlidervue_type_script_lang_js_,
-  render,
-  staticRenderFns,
-  false,
-  null,
-  null,
-  "4a9b5aba"
-  
-)
-
-/* harmony default export */ var HeroSlider = __webpack_exports__["default"] = (component.exports);
-
-/***/ }),
-
-/***/ 61:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-// ESM COMPAT FLAG
-__webpack_require__.r(__webpack_exports__);
-
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/AboutOne.vue?vue&type=template&id=78c41b42&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"about-area about-default-area"},[_vm._ssrNode("<div class=\"container\">","</div>",[_vm._ssrNode("<div class=\"row\">","</div>",[_vm._ssrNode("<div class=\"col-lg-5 md-text-center\">","</div>",[_vm._ssrNode("<div data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"layer-style\">","</div>",[_vm._ssrNode("<div class=\"thumb tilt-animation\"><img src=\"/images/about/01.jpg\" alt=\"Images\"></div> <div class=\"shape-style1\"><img src=\"/images/shape/circle-line1.png\" alt=\"Images\"></div> "),_c('ShapeWithAnimation',{attrs:{"addClassName":"shape-style2","imgSrc":"/images/shape/circle-shape1.png","data-depth":".6"}}),_vm._ssrNode(" <div class=\"experience-time\"><div class=\"content\">4<sup>+</sup> <span>Años de experiencia</span></div></div>")],2)]),_vm._ssrNode(" <div class=\"col-lg-6 offset-lg-1\"><div class=\"about-content\"><div data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"section-title xs-text-center\"><h2 class=\"title\">Experiencia en<span class=\"bottom-style\"> Proyectos</span> de Innovación Tecnologica.</h2> <div class=\"desc\"><p class=\"mt-20\">Innovamos y desarrollamos soluciones tecnológicas para la industria, minería, petroleo, transporte, gas y agricultura.<u class=\"text-theme-color2\"> Nuestras soluciones integran las mejores tecnologías que existen en la actualidad.</u> Como son Inteligencia Artificial, Machine Learning, Procesamiento de señales e imágenes, sistemas embebidos, sistemas operativos robóticos (ROS), Internet de las Cosas(IoT), Redes Industriales, etc.</p></div></div> <div data-aos=\"fade-up\" data-aos-duration=\"1200\" class=\"list-icon-style\"><ul><li><i class=\"icon icofont-clock-time\"></i> Ahorre Tiempo</li> <li><i class=\"icon icofont-money-bag\"></i> Reduce costos</li> <li><i class=\"icon icofont-chart-growth\"></i>Solución inmediata</li> <li><i class=\"icon icofont-live-support\"></i> Soporte 24/7</li> <li><i class=\"icon icofont-badge\"></i> Socio de confianza</li> <li><i class=\"icon icofont-unique-idea\"></i> Ideas innovadoras</li></ul></div></div></div>")],2)])])}
-var staticRenderFns = []
-
-
-// CONCATENATED MODULE: ./components/AboutOne.vue?vue&type=template&id=78c41b42&
-
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/AboutOne.vue?vue&type=script&lang=js&
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ var AboutOnevue_type_script_lang_js_ = ({
-  components: {
-    ShapeWithAnimation: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 46))
-  }
-});
-// CONCATENATED MODULE: ./components/AboutOne.vue?vue&type=script&lang=js&
- /* harmony default export */ var components_AboutOnevue_type_script_lang_js_ = (AboutOnevue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
-var componentNormalizer = __webpack_require__(2);
-
-// CONCATENATED MODULE: ./components/AboutOne.vue
-
-
-
-
-
-/* normalize component */
-
-var component = Object(componentNormalizer["a" /* default */])(
-  components_AboutOnevue_type_script_lang_js_,
-  render,
-  staticRenderFns,
-  false,
-  null,
-  null,
-  "2d187398"
-  
-)
-
-/* harmony default export */ var AboutOne = __webpack_exports__["default"] = (component.exports);
-
-/* nuxt-component-imports */
-installComponents(component, {ShapeWithAnimation: __webpack_require__(46).default})
-
-
-/***/ }),
-
-/***/ 62:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-// ESM COMPAT FLAG
-__webpack_require__.r(__webpack_exports__);
-
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/ServiceOne.vue?vue&type=template&id=97ebe26e&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"service-area service-default-area"},[_vm._ssrNode("<div class=\"container\">","</div>",[_vm._ssrNode("<div class=\"row\"><div class=\"col-lg-8 col-xl-6 m-auto\"><div data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"section-title text-center\"><h2 class=\"title\">¿Qué hacemos?</h2> <div class=\"separator-line mt-14\"><img src=\"/images/shape/line-s2.png\" alt=\"Images\" class=\"me-1\"> <img src=\"/images/shape/line-s1.png\" alt=\"Images\"></div> <div class=\"desc\"><p class=\"mt-21\">Dedicamos el mayor de nuestros esfuerzos en desarrollar soluciones de Hardware y Software para nuestros clientes, haciendo uso de las herramientas tecnológicas más emergentes.</p></div></div></div></div> "),_vm._ssrNode("<div class=\"row icon-box-style1\">","</div>",_vm._l((_vm.services),function(service,index){return _vm._ssrNode("<div data-aos=\"fade-up\" data-aos-duration=\"1100\" class=\"col-md-6 col-lg-4\">","</div>",[_c('ServiceItem',{attrs:{"service":service}})],1)}),0)],2),_vm._ssrNode(" <div class=\"layer-shape\"><img src=\"/images/shape/6.png\" alt=\"shape\" class=\"layer-shape-one\"> <img src=\"/images/shape/7.png\" alt=\"shape\" class=\"layer-shape-two\"></div>")],2)}
-var staticRenderFns = []
-
-
-// CONCATENATED MODULE: ./components/ServiceOne.vue?vue&type=template&id=97ebe26e&
-
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/ServiceOne.vue?vue&type=script&lang=js&
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ var ServiceOnevue_type_script_lang_js_ = ({
-  data() {
-    return {
-      services: [{
-        icon: "/images/icons/s1.png",
-        title: "Desarrollo de software",
-        desc: "Transformamos su negocio mediante la creación de aplicaciones digitales innovadoras haciendo uso de diferentes lenguajes de programación. Comience hoy mismo y permítanos ayudarlo a aprovechar el poder de las tecnologías emergentes."
-      }, {
-        icon: "/images/icons/s6.png",
-        title: "Diseño y desarrollo de hardware IOT",
-        desc: "Construimos sistemas integrados con nuestra experiencia y comprensión en diseño de hardware integrado, redes de sensores inalámbricos y diferentes protocolos de comunicación."
-      }, {
-        icon: "/images/icons/s3.png",
-        title: "Fabricación digital y prototipado ágil",
-        desc: "Te ayudamos en el desarrollo de prototipos de baja y media resolución con la ayuda de nuestros diseñadores y herramientas de impresión 3D de diferentes materiales de fabricación."
-      }, {
-        icon: "/images/icons/s4.png",
-        title: "Consultoría en conceptualización de productos IOT",
-        desc: "Con años de experiencia práctica en el trabajo con productos de hardware y software de IoT, somos conscientes de casi todo sobre IoT. Para mejorar nuestro conocimiento, brindamos servicios de consultoría para productos IoT La consulta proporcionada por nosotros puede ayudarlo a mejorar el diseño de su producto y construir dispositivos IoT."
-      }, {
-        icon: "/images/icons/s5.png",
-        title: "Implementación en la nube y creación de dashboard personalizados ",
-        desc: "IoT conecta y permite la comunicación entre cosas (hardware electrónico), personas y procesos donde la nube es vital en la colaboración de estos elementos para crear una alta visibilidad y conexión. Brindamos el despliegue de proyectos a nivel de la nube aprovechando las ventajas de esta tecnología."
-      }, {
-        icon: "/images/icons/s2.png",
-        title: "Industria 4.0",
-        desc: "La Industria 4.0 hace que todo en su cadena de suministro sea inteligente desde la fabricación y fábricas inteligentes hasta el almacenamiento y la logística inteligentes.Pero la Industria 4.0 no se detiene en la cadena de suministro. Se interconecta con sistemas de back-end, como la planificación de recursos empresariales (ERP), para brindar a las empresas un nivel de visibilidad y control sin precedentes."
-      }]
-    };
-  }
-
-});
-// CONCATENATED MODULE: ./components/ServiceOne.vue?vue&type=script&lang=js&
- /* harmony default export */ var components_ServiceOnevue_type_script_lang_js_ = (ServiceOnevue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
-var componentNormalizer = __webpack_require__(2);
-
-// CONCATENATED MODULE: ./components/ServiceOne.vue
-
-
-
-
-
-/* normalize component */
-
-var component = Object(componentNormalizer["a" /* default */])(
-  components_ServiceOnevue_type_script_lang_js_,
-  render,
-  staticRenderFns,
-  false,
-  null,
-  null,
-  "1ceed4a0"
-  
-)
-
-/* harmony default export */ var ServiceOne = __webpack_exports__["default"] = (component.exports);
-
-/* nuxt-component-imports */
-installComponents(component, {ServiceItem: __webpack_require__(40).default})
-
-
-/***/ }),
-
-/***/ 70:
+/***/ 73:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1978,13 +1978,13 @@ var staticRenderFns = []
   components: {
     Header: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 26)),
     OffCanvasMobileMenu: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 30)),
-    HeroSlider: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 60)),
-    AboutOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 61)),
+    HeroSlider: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 58)),
+    AboutOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 59)),
     FunFactOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 41)),
-    ServiceOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 62)),
-    FaqOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 54)),
+    ServiceOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 60)),
+    FaqOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 61)),
     TeamSection: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 42)),
-    PortfolioSection: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 53)),
+    PortfolioSection: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 62)),
     BrandLogoSection: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 43)),
     ContactDevider: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33)),
     Footer: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 25))
@@ -2024,7 +2024,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var pages = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {Header: __webpack_require__(26).default,OffCanvasMobileMenu: __webpack_require__(30).default,HeroSlider: __webpack_require__(60).default,AboutOne: __webpack_require__(61).default,FunFactOne: __webpack_require__(41).default,ServiceOne: __webpack_require__(62).default,FaqOne: __webpack_require__(54).default,TeamSection: __webpack_require__(42).default,PortfolioSection: __webpack_require__(53).default,BrandLogoSection: __webpack_require__(43).default,ContactDevider: __webpack_require__(33).default,Footer: __webpack_require__(25).default})
+installComponents(component, {Header: __webpack_require__(26).default,OffCanvasMobileMenu: __webpack_require__(30).default,HeroSlider: __webpack_require__(58).default,AboutOne: __webpack_require__(59).default,FunFactOne: __webpack_require__(41).default,ServiceOne: __webpack_require__(60).default,FaqOne: __webpack_require__(61).default,TeamSection: __webpack_require__(42).default,PortfolioSection: __webpack_require__(62).default,BrandLogoSection: __webpack_require__(43).default,ContactDevider: __webpack_require__(33).default,Footer: __webpack_require__(25).default})
 
 
 /***/ })

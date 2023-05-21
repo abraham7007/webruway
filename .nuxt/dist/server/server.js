@@ -1257,23 +1257,23 @@ function shouldScrollToTop(route) {
 
 
 
-const _2b6d5f21 = () => interopDefault(__webpack_require__.e(/* import() | pages/about */ 41).then(__webpack_require__.bind(null, 72)));
+const _2b6d5f21 = () => interopDefault(__webpack_require__.e(/* import() | pages/about */ 41).then(__webpack_require__.bind(null, 65)));
 
-const _16494a3e = () => interopDefault(__webpack_require__.e(/* import() | pages/blog */ 42).then(__webpack_require__.bind(null, 73)));
+const _16494a3e = () => interopDefault(__webpack_require__.e(/* import() | pages/blog */ 42).then(__webpack_require__.bind(null, 66)));
 
-const _270e5733 = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-details */ 43).then(__webpack_require__.bind(null, 75)));
+const _270e5733 = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-details */ 43).then(__webpack_require__.bind(null, 67)));
 
-const _080eef34 = () => interopDefault(__webpack_require__.e(/* import() | pages/contact */ 44).then(__webpack_require__.bind(null, 69)));
+const _080eef34 = () => interopDefault(__webpack_require__.e(/* import() | pages/contact */ 44).then(__webpack_require__.bind(null, 68)));
 
-const _64cc1ca6 = () => interopDefault(__webpack_require__.e(/* import() | pages/project */ 46).then(__webpack_require__.bind(null, 68)));
+const _64cc1ca6 = () => interopDefault(__webpack_require__.e(/* import() | pages/project */ 46).then(__webpack_require__.bind(null, 69)));
 
-const _7c741fa2 = () => interopDefault(__webpack_require__.e(/* import() | pages/project-details */ 47).then(__webpack_require__.bind(null, 67)));
+const _7c741fa2 = () => interopDefault(__webpack_require__.e(/* import() | pages/project-details */ 47).then(__webpack_require__.bind(null, 70)));
 
-const _daa3816e = () => interopDefault(__webpack_require__.e(/* import() | pages/service */ 48).then(__webpack_require__.bind(null, 66)));
+const _daa3816e = () => interopDefault(__webpack_require__.e(/* import() | pages/service */ 48).then(__webpack_require__.bind(null, 71)));
 
-const _46c1dd84 = () => interopDefault(__webpack_require__.e(/* import() | pages/service-details */ 49).then(__webpack_require__.bind(null, 71)));
+const _46c1dd84 = () => interopDefault(__webpack_require__.e(/* import() | pages/service-details */ 49).then(__webpack_require__.bind(null, 72)));
 
-const _4b2539e6 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 45).then(__webpack_require__.bind(null, 70)));
+const _4b2539e6 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 45).then(__webpack_require__.bind(null, 73)));
 
 const emptyFn = () => {};
 
@@ -2018,9 +2018,9 @@ const layouts = {
   }
 });
 // CONCATENATED MODULE: ./.nuxt/components/index.js
-const AboutOne = () => __webpack_require__.e(/* import() | components/about-one */ 1).then(__webpack_require__.bind(null, 61)).then(c => wrapFunctional(c.default || c));
+const AboutOne = () => __webpack_require__.e(/* import() | components/about-one */ 1).then(__webpack_require__.bind(null, 59)).then(c => wrapFunctional(c.default || c));
 const AboutTwo = () => __webpack_require__.e(/* import() | components/about-two */ 2).then(__webpack_require__.bind(null, 63)).then(c => wrapFunctional(c.default || c));
-const AccordionStyleOne = () => __webpack_require__.e(/* import() | components/accordion-style-one */ 3).then(__webpack_require__.bind(null, 47)).then(c => wrapFunctional(c.default || c));
+const AccordionStyleOne = () => __webpack_require__.e(/* import() | components/accordion-style-one */ 3).then(__webpack_require__.bind(null, 49)).then(c => wrapFunctional(c.default || c));
 const BlogDetailsWrapper = () => __webpack_require__.e(/* import() | components/blog-details-wrapper */ 4).then(__webpack_require__.bind(null, 52)).then(c => wrapFunctional(c.default || c));
 const BlogSection = () => __webpack_require__.e(/* import() | components/blog-section */ 5).then(__webpack_require__.bind(null, 74)).then(c => wrapFunctional(c.default || c));
 const BlogWrapper = () => __webpack_require__.e(/* import() | components/blog-wrapper */ 6).then(__webpack_require__.bind(null, 51)).then(c => wrapFunctional(c.default || c));
@@ -2028,31 +2028,31 @@ const BrandLogoSection = () => __webpack_require__.e(/* import() | components/br
 const CommentForm = () => __webpack_require__.e(/* import() | components/comment-form */ 8).then(__webpack_require__.bind(null, 45)).then(c => wrapFunctional(c.default || c));
 const CommentList = () => __webpack_require__.e(/* import() | components/comment-list */ 9).then(__webpack_require__.bind(null, 44)).then(c => wrapFunctional(c.default || c));
 const ContactDevider = () => __webpack_require__.e(/* import() | components/contact-devider */ 10).then(__webpack_require__.bind(null, 33)).then(c => wrapFunctional(c.default || c));
-const ContactWrapper = () => __webpack_require__.e(/* import() | components/contact-wrapper */ 11).then(__webpack_require__.bind(null, 55)).then(c => wrapFunctional(c.default || c));
-const FaqOne = () => __webpack_require__.e(/* import() | components/faq-one */ 12).then(__webpack_require__.bind(null, 54)).then(c => wrapFunctional(c.default || c));
+const ContactWrapper = () => __webpack_require__.e(/* import() | components/contact-wrapper */ 11).then(__webpack_require__.bind(null, 53)).then(c => wrapFunctional(c.default || c));
+const FaqOne = () => __webpack_require__.e(/* import() | components/faq-one */ 12).then(__webpack_require__.bind(null, 61)).then(c => wrapFunctional(c.default || c));
 const FeatureList = () => __webpack_require__.e(/* import() | components/feature-list */ 13).then(__webpack_require__.bind(null, 50)).then(c => wrapFunctional(c.default || c));
 const Footer = () => __webpack_require__.e(/* import() | components/footer */ 14).then(__webpack_require__.bind(null, 25)).then(c => wrapFunctional(c.default || c));
 const FooterTwo = () => __webpack_require__.e(/* import() | components/footer-two */ 15).then(__webpack_require__.bind(null, 64)).then(c => wrapFunctional(c.default || c));
 const FunFactOne = () => __webpack_require__.e(/* import() | components/fun-fact-one */ 16).then(__webpack_require__.bind(null, 41)).then(c => wrapFunctional(c.default || c));
 const Header = () => __webpack_require__.e(/* import() | components/header */ 17).then(__webpack_require__.bind(null, 26)).then(c => wrapFunctional(c.default || c));
-const HeroSlider = () => __webpack_require__.e(/* import() | components/hero-slider */ 18).then(__webpack_require__.bind(null, 60)).then(c => wrapFunctional(c.default || c));
+const HeroSlider = () => __webpack_require__.e(/* import() | components/hero-slider */ 18).then(__webpack_require__.bind(null, 58)).then(c => wrapFunctional(c.default || c));
 const MobileNavigation = () => __webpack_require__.e(/* import() | components/mobile-navigation */ 19).then(__webpack_require__.bind(null, 28)).then(c => wrapFunctional(c.default || c));
 const Navigation = () => __webpack_require__.e(/* import() | components/navigation */ 20).then(__webpack_require__.bind(null, 29)).then(c => wrapFunctional(c.default || c));
 const OffCanvasMobileMenu = () => __webpack_require__.e(/* import() | components/off-canvas-mobile-menu */ 21).then(__webpack_require__.bind(null, 30)).then(c => wrapFunctional(c.default || c));
 const PageTitle = () => __webpack_require__.e(/* import() | components/page-title */ 22).then(__webpack_require__.bind(null, 32)).then(c => wrapFunctional(c.default || c));
-const Pagination = () => __webpack_require__.e(/* import() | components/pagination */ 23).then(__webpack_require__.bind(null, 49)).then(c => wrapFunctional(c.default || c));
-const PortfolioDetailsWrapper = () => __webpack_require__.e(/* import() | components/portfolio-details-wrapper */ 24).then(__webpack_require__.bind(null, 57)).then(c => wrapFunctional(c.default || c));
-const PortfolioSection = () => __webpack_require__.e(/* import() | components/portfolio-section */ 25).then(__webpack_require__.bind(null, 53)).then(c => wrapFunctional(c.default || c));
-const PortfolioWrapper = () => __webpack_require__.e(/* import() | components/portfolio-wrapper */ 26).then(__webpack_require__.bind(null, 56)).then(c => wrapFunctional(c.default || c));
+const Pagination = () => __webpack_require__.e(/* import() | components/pagination */ 23).then(__webpack_require__.bind(null, 47)).then(c => wrapFunctional(c.default || c));
+const PortfolioDetailsWrapper = () => __webpack_require__.e(/* import() | components/portfolio-details-wrapper */ 24).then(__webpack_require__.bind(null, 55)).then(c => wrapFunctional(c.default || c));
+const PortfolioSection = () => __webpack_require__.e(/* import() | components/portfolio-section */ 25).then(__webpack_require__.bind(null, 62)).then(c => wrapFunctional(c.default || c));
+const PortfolioWrapper = () => __webpack_require__.e(/* import() | components/portfolio-wrapper */ 26).then(__webpack_require__.bind(null, 54)).then(c => wrapFunctional(c.default || c));
 const PostAuthorInfo = () => __webpack_require__.e(/* import() | components/post-author-info */ 27).then(__webpack_require__.bind(null, 48)).then(c => wrapFunctional(c.default || c));
 const ServiceCategoryWidget = () => __webpack_require__.e(/* import() | components/service-category-widget */ 28).then(__webpack_require__.bind(null, 34)).then(c => wrapFunctional(c.default || c));
-const ServiceDetailsWrapper = () => __webpack_require__.e(/* import() | components/service-details-wrapper */ 29).then(__webpack_require__.bind(null, 59)).then(c => wrapFunctional(c.default || c));
+const ServiceDetailsWrapper = () => __webpack_require__.e(/* import() | components/service-details-wrapper */ 29).then(__webpack_require__.bind(null, 57)).then(c => wrapFunctional(c.default || c));
 const ServiceItem = () => __webpack_require__.e(/* import() | components/service-item */ 30).then(__webpack_require__.bind(null, 40)).then(c => wrapFunctional(c.default || c));
-const ServiceOne = () => __webpack_require__.e(/* import() | components/service-one */ 31).then(__webpack_require__.bind(null, 62)).then(c => wrapFunctional(c.default || c));
-const ServiceWrapper = () => __webpack_require__.e(/* import() | components/service-wrapper */ 32).then(__webpack_require__.bind(null, 58)).then(c => wrapFunctional(c.default || c));
+const ServiceOne = () => __webpack_require__.e(/* import() | components/service-one */ 31).then(__webpack_require__.bind(null, 60)).then(c => wrapFunctional(c.default || c));
+const ServiceWrapper = () => __webpack_require__.e(/* import() | components/service-wrapper */ 32).then(__webpack_require__.bind(null, 56)).then(c => wrapFunctional(c.default || c));
 const ShapeWithAnimation = () => __webpack_require__.e(/* import() | components/shape-with-animation */ 33).then(__webpack_require__.bind(null, 46)).then(c => wrapFunctional(c.default || c));
 const TeamSection = () => __webpack_require__.e(/* import() | components/team-section */ 34).then(__webpack_require__.bind(null, 42)).then(c => wrapFunctional(c.default || c));
-const TestimonialOne = () => __webpack_require__.e(/* import() | components/testimonial-one */ 35).then(__webpack_require__.bind(null, 65)).then(c => wrapFunctional(c.default || c));
+const TestimonialOne = () => __webpack_require__.e(/* import() | components/testimonial-one */ 35).then(__webpack_require__.bind(null, 75)).then(c => wrapFunctional(c.default || c));
 const WidgetRecentPost = () => __webpack_require__.e(/* import() | components/widget-recent-post */ 36).then(__webpack_require__.bind(null, 38)).then(c => wrapFunctional(c.default || c));
 const WidgetSearch = () => __webpack_require__.e(/* import() | components/widget-search */ 37).then(__webpack_require__.bind(null, 37)).then(c => wrapFunctional(c.default || c));
 const WidgetSocial = () => __webpack_require__.e(/* import() | components/widget-social */ 38).then(__webpack_require__.bind(null, 36)).then(c => wrapFunctional(c.default || c));

@@ -1189,7 +1189,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 49:
+/***/ 47:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1303,7 +1303,7 @@ var staticRenderFns = []
 //
 /* harmony default export */ var BlogWrappervue_type_script_lang_js_ = ({
   components: {
-    Pagination: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 49)),
+    Pagination: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 47)),
     WidgetSearch: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 37)),
     ServiceCategoryWidget: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 34)),
     WidgetVideo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 35)),
@@ -1382,12 +1382,12 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var BlogWrapper = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {Pagination: __webpack_require__(49).default,WidgetSearch: __webpack_require__(37).default,ServiceCategoryWidget: __webpack_require__(34).default,WidgetVideo: __webpack_require__(35).default,WidgetSocial: __webpack_require__(36).default,WidgetRecentPost: __webpack_require__(38).default,WidgetTags: __webpack_require__(39).default})
+installComponents(component, {Pagination: __webpack_require__(47).default,WidgetSearch: __webpack_require__(37).default,ServiceCategoryWidget: __webpack_require__(34).default,WidgetVideo: __webpack_require__(35).default,WidgetSocial: __webpack_require__(36).default,WidgetRecentPost: __webpack_require__(38).default,WidgetTags: __webpack_require__(39).default})
 
 
 /***/ }),
 
-/***/ 73:
+/***/ 66:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
