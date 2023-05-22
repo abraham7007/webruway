@@ -11,9 +11,9 @@
     "generate": "nuxt generate"
   },
   "engines":{
-    "node": "^16.20.0",
+    "node": "^18.16.0",
     "npm":"^8.19.4"
-  },
+  },  
   "dependencies": {
     "@nuxtjs/style-resources": "^1.2.1",
     "aos": "^2.3.4",
