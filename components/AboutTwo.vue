@@ -10,7 +10,7 @@
                             </div>
                             <div class="experience-time">
                                 <div class="content">
-                                    4<sup>+</sup>
+                                    6<sup>+</sup>
                                     <div class="line-separetor">
                                         <img src="/images/shape/line-s4.png" alt="image">
                                     </div>
