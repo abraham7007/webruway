@@ -5,8 +5,8 @@
                 <div class="col-6 col-sm-4 col-lg-3">
                     <div class="header-logo-area">
                         <n-link to="/">
-                            <img class="logo-main" src="/images/logo/logo_RUWAY.png" />
-                            <img class="logo-light" src="/images/logo/logo_RUWAY.png" />
+                            <img class="logo-main" src="/images/logo/logo_RUWAY.PNG" />
+                            <img class="logo-light" src="/images/logo/logo_RUWAY.PNG" />
                         </n-link>
                     </div>
                 </div>
