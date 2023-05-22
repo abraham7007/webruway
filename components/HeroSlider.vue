@@ -12,7 +12,7 @@
                                     <h6>Desde 2018</h6>
                                 </div>
                                 <div class="tittle-wrp">
-                                    <h2>Industría<span> 4.0</span></h2>
+                                    <h2>Industria<span> 4.0</span></h2>
                                 </div>
                                 <p>La innovación y creatividad nos caracteriza como empresa.</p>
                                 <n-link to="/service" class="btn btn-theme btn-theme-color2">Nuestros servicios <i class="icon icofont-long-arrow-right"></i></n-link>
@@ -21,7 +21,7 @@
                                 <div class="thumb">
                                     <img src="/images/slider/1.png" alt="Images">
                                 </div>                                
-                                <div class="success-rate"><div class="content">98% <span>Proyectos Exitosos</span></div></div>
+                                <div class="success-rate"><div class="content">+250 <span>Proyectos Exitosos</span></div></div>
                                 <div class="shape-style3">
                                     <img src="/images/shape/3.png" alt="Images">
                                 </div>
@@ -53,7 +53,7 @@
                                 <div class="thumb">
                                     <img src="/images/slider/2.jpg" alt="Images">
                                 </div>
-                                <div class="success-rate"><div class="content">98% <span>Proyectos Exitosos</span></div></div>
+                                <div class="success-rate"><div class="content">+250 <span>Proyectos Exitosos</span></div></div>
                                 <div class="shape-style3">
                                     <img src="/images/shape/3.png" alt="Images">
                                 </div>
